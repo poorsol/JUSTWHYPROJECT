@@ -1,0 +1,8 @@
+console.log("WHY AI system initialized");
+
+// simple mock execution
+function executeTask(task) {
+  console.log(`Executing task: ${task}`);
+}
+
+executeTask("connect AI to real-world action layer");
